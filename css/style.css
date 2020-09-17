@@ -5,9 +5,15 @@
 }
 
 body {
-  background-color: #6362bb;
+  background-color: lemonChiffon;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
+}
+
+.showcase {
+  background-color: royalBlue;
+  color: white;
+  height: 600px;
 }
 
 /*# sourceMappingURL=style.css.map */
