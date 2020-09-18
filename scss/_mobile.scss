@@ -1,0 +1,29 @@
+// _mobile.scss for responsiveness
+
+// @media (max-width: 700px) {
+//     .showcase {
+//         height: 400px;
+//     }
+
+//     .showcase-content {
+//         text-align: center;
+
+//         img {
+//             display: none;
+//         }
+//     }
+// }
+
+@media (max-width: 700px) {
+    .showcase {
+        height: 400px;
+    }
+
+    .showcase-content {
+        text-align: center;
+    }
+
+    .showcase-content img {
+        display: none;
+    }
+}
