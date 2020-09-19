@@ -17,5 +17,5 @@
 
 .btn-secondary {
     @extend %btn;
-    background-color: purple;
+    background-color: $secondary-color;
 }

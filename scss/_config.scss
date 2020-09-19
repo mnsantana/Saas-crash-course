@@ -8,13 +8,11 @@
 
 // partial for main stylesheet
 
-$font-stack: verdana,
-Helvetica,
-sans-serif;
-$light-color: mistyRose;
-$primary-color: steelBlue;
+$font-stack: Arial, Helvetica, sans-serif;
+$light-color: khaki;
+$primary-color:steelBlue;
 // $primary-color: #e0ffff;
-$secondary-color: gold;
+$secondary-color: orange;
 
 // Set text color based on bg
 @function set-text-color($color) {
